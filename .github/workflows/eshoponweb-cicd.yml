@@ -9,7 +9,7 @@ env:
   LOCATION: francecentral
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3ddf0ad7-43f7-4b18-8865-29058c9005c9
-  WEBAPP-NAME: az400-webapp-test
+  WEBAPP-NAME: az400-webapp-test 
 
 
 jobs:
